@@ -7,7 +7,7 @@
 ## Academic qualification:
 > ### National Aviation University (2010-2016) Specialist's diploma in computer information technologies department
 >> ### 1. Epam courses: Software Testing Advanced
-   ### 2. BTU: Digital Literacy, Softrware testing 
+>> ### 2. BTU: Digital Literacy, Softrware testing 
 
 ## Tools 
 ![Java Script](https://img.shields.io/badge/JavaScript-%232477a0?style=for-the-badge&logo=JavaScript&labelColor=black)
