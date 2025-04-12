@@ -30,4 +30,6 @@
 
 ### Follow me
 [![Static Badge](https://img.shields.io/badge/Facebook-%2386789d?style=for-the-badge&logo=Facebook)](https://www.facebook.com/ira.mozja)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%2386789d?style=for-the-badge&logo=Linkedin)](www.linkedin.com/in/iryna-mozghova)
+[![Static Badge](https://img.shields.io/badge/Telegram-%2386789d?style=for-the-badge&logo=Telegram)](https://t.me/irynamozghova93)
 
