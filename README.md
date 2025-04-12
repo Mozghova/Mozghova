@@ -4,8 +4,10 @@
 
 ### I'm a person with strong systematic mindset, always focused on understanding the big picture. Seek out opportunities to go beyound basic course material and gain deeper understanding or hands-on experience. 
 
-> Academic qualification: 
-National Aviation University (2010-2016) Specialist's diploma in computer information technologies department
+## Academic qualification:
+> ### National Aviation University (2010-2016) Specialist's diploma in computer information technologies department
+>> ### Epam courses: Software Testing
+
 ## Tools 
 ![Java Script](https://img.shields.io/badge/JavaScript-%232477a0?style=for-the-badge&logo=JavaScript&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS-%232477a0?style=for-the-badge&logo=CSS&labelColor=black)
